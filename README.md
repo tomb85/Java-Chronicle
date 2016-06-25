@@ -1,3 +1,6 @@
+#BLAH
+Test
+
 # NOTE
 This repo is old and out of date. I suggest you use version 3.x from https://github.com/OpenHFT/Chronicle-Queue
 
